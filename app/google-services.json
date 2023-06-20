@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641467406819",
+    "project_id": "login-dan-register-firebase",
+    "storage_bucket": "login-dan-register-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641467406819:android:a906eddcc283e0792668d6",
+        "android_client_info": {
+          "package_name": "com.millenialzdev.logindanregisterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641467406819-smu986d2rqfcm28l74mk18bds1u68o59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzDDKpkdivPfXAFp-izHYTCFSLwu9tos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641467406819-smu986d2rqfcm28l74mk18bds1u68o59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
